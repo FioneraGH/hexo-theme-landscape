@@ -1,7 +1,9 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
+  主页: /
+  文章: /archives/
+  简历: /resume/
+  关于: /about/
 rss: /atom.xml
 
 # Content
@@ -16,6 +18,7 @@ widgets:
 - tagcloud
 - archive
 - recent_posts
+- weibo
 
 # display widgets at the bottom of index pages (pagination == 2)
 index_widgets:
